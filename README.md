@@ -41,4 +41,6 @@
 本组根据关键词输出的加权比例进行了可视化显示，满足用户视觉体验，可以直观感受是否出现敏感词汇。
 
 >>文件处理部分代码：链接：https://pan.baidu.com/s/1SkJmwzewpTMq0l5Gc0RKCg 提取码：hrmu 
+其中关键词提取代码参考了杨震老师的软件https://github.com/fromskyblue/Keywords-Extraction
+
 >>文件审核部分代码：链接：https://pan.baidu.com/s/19PHIo8d-jXckUIOp9MOFpA 提取码：qha0
